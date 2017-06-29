@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: Elastic CTO
 description: Just-in-time CTO, at your service
+show_downloads: false
+google_analtyics: null
